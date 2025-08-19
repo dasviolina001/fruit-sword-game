@@ -1,76 +1,36 @@
-🍉 Fruit Sword Game 🍌
+# Fruit Sword Game 🍉🍌
 
-A fun and interactive game where you slice fruits with a sword while avoiding bombs.
-Inspired by the classic Fruit Ninja, built with HTML, CSS, and JavaScript.
+Slice fruits, avoid bombs, and score high in this fun, interactive game built with HTML, CSS, and JavaScript!
 
-🎮 How to Play
+## Features
+- Three difficulty levels: Easy 🍏, Medium 🍊, Hard 🍒
+- Sound on/off toggle
+- Pause and back buttons
+- Game ends if more than 8 fruits are missed or a bomb is sliced
+- Works on desktop and mobile devices
 
-Move your mouse to control the sword.
+## Live Demo
+Check out the game live here: [Fruit Sword Game](https://fruit-sword-game.onrender.com)
 
-Slice fruits to gain points.
+## How to Play
+1. Open the game in your browser.
+2. Select difficulty and toggle sound if desired.
+3. Click "Play Game" to start.
+4. Move your sword (mouse or touch) to slice fruits.
+5. Avoid bombs!
+6. Pause or go back anytime using the buttons.
 
-Avoid bombs ⚠️ — slicing one ends the game instantly.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-If you miss more than 8 fruits, the game will be over.
+## Screenshot
+<img width="1898" height="858" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/772668bf-f625-4037-99d9-101150437561" />
 
-Choose your difficulty:
+<img width="1920" height="864" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/f061429a-027a-4959-b3d3-ef70277b3f00" />
 
-🍏 Easy
+<img width="1920" height="852" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/265f4ce3-b1d1-4f6b-ad9c-9aef7f528f97" />
 
-🍊 Medium
-
-🍒 Hard
-
-You can also pause/resume the game and turn sound on/off.
-
-🛠️ Features
-
-Responsive and smooth gameplay.
-
-Custom sword cursor.
-
-Three difficulty levels.
-
-Sound effects for slicing and bombs.
-
-Game over conditions:
-
-Cutting a bomb
-
-Missing 9 fruits
-
-🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/dasviolina001/fruit-sword-game.git
-
-
-Open index.html in your browser.
-
-Start slicing fruits! 🍉🍌🍊
-
-🎨 Screenshots
-
-<img width="1920" height="864" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/f57ae7ba-bf59-4c57-ad3f-37f401e63278" />
-
-<img width="1920" height="861" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/8bc61edf-5537-4fff-b600-5e73c5a0a6f7" />
-
-<img width="1920" height="864" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/324dd440-a35d-437f-a0fe-bfa8908896f4" />
-
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repo
-
-Create a new branch
-
-Make changes and commit
-
-Submit a pull request
-
-📜 License
-
-This project is licensed under the MIT License — feel free to use and modify it.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
