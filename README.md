@@ -39,16 +39,6 @@ Cutting a bomb
 
 Missing 9 fruits
 
-📂 Project Structure
-Fruit-Sword-Game/
-│── index.html
-│── style.css
-│── game.js
-│── assets/
-│    ├── fruits/ (fruit images)
-│    ├── bombs/ (bomb images)
-│    └── sounds/ (slice.wav, bomb.wav)
-
 🚀 Getting Started
 
 Clone the repository:
