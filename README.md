@@ -1,6 +1,6 @@
 🍉 Fruit Sword Game 🍌
 
-A fun and interactive browser game where you slice fruits with a sword while avoiding bombs.
+A fun and interactive game where you slice fruits with a sword while avoiding bombs.
 Inspired by the classic Fruit Ninja, built with HTML, CSS, and JavaScript.
 
 🎮 How to Play
