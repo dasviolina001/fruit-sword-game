@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fruit Sword Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Start Screen -->
+  <div id="startScreen">
+    <h1>🍉 Welcome to Fruit Sword 🍌</h1>
+    <p>Slice fruits, avoid bombs, and score high!</p>
+
+    <div class="settings">
+      <label>
+        <input type="checkbox" id="soundToggle" checked>
+        Sound On/Off
+      </label>
+      <br><br>
+      <label>
+        Difficulty:
+        <select id="difficultySelect">
+          <option value="easy">Easy 🍏</option>
+          <option value="medium">Medium 🍊</option>
+          <option value="hard">Hard 🍒</option>
+        </select>
+      </label>
+    </div>
+
+    <button id="startBtn">▶️ Play Game</button>
+  </div>
+
+  <!-- Game Area -->
+  <div id="gameArea" class="hidden">
+    <div id="score">Score: 0</div>
+    <div id="sword"></div>
+    <button id="pauseBtn">⏸️ Pause</button>
+    <button id="backBtn">🔙 Back</button>
+  </div>
+
+  <!-- Sounds -->
+  <audio id="sliceSound" src="assets/sounds/slice.wav"></audio>
+  <audio id="bombSound" src="assets/sounds/bomb.wav"></audio>
+
+  <script src="game.js"></script>
+</body>
+</html>
